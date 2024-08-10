@@ -92,3 +92,6 @@ The models are trained and evaluated using cross-validation techniques. The perf
 
 <h1><b>Results and Evaluation</b></h1>
 The results of the machine learning models are analyzed and visualized using Matplotlib and Seaborn. The project includes a comprehensive analysis of the model's performance, including a comparison of different models.
+
+![Screenshot 2024-08-09 194201](https://github.com/user-attachments/assets/7d986efc-6337-4156-b61b-2eabcf7418ed)
+![Screenshot 2024-08-09 194349](https://github.com/user-attachments/assets/785ab8d4-d53e-42f9-bb35-fe0a5f256109)
