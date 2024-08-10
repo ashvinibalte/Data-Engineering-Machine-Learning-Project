@@ -10,8 +10,7 @@ Welcome to the Data Engineering & Machine Learning Project repository! This proj
   <li><b>Data Pipeline</b></li>
   <li><b>Machine Learning Model</b></li>
   <li><b>Results and Evaluation</b></li>
-  <li><b>Contributing</b></li>
-  <li><b>License</b></li>
+ 
 </ul>
 <h1><b>Project Overview</b></h1>
 This project involves building a scalable data pipeline that processes and transforms data for further analysis and machine learning applications. The pipeline handles various stages such as data extraction, transformation, loading (ETL), and the application of machine learning algorithms to derive insights.
